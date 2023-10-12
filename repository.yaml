@@ -1,0 +1,3 @@
+name: Home Assistant addons for alternative Norwegian Whisper models from NB-Ai-Lab (https://huggingface.co/NbAiLab)
+url: 'https://github.com/agjendem/whisper-nbailab-addons'
+maintainer: Anders Gjendem <anders.gjendem@gmail.com>
