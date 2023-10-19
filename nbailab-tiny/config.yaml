@@ -1,6 +1,6 @@
 name: "Whisper (Norwegian)"
 description: "Whisper models for Norwegian languages. Based on fine tuned Whisper models trained by NB-Ai-Lab (https://huggingface.co/NbAiLab)"
-version: "0.1.1"
+version: "0.1.2"
 slug: "nbailab-tiny"
 init: false
 arch:
